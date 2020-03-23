@@ -16,6 +16,6 @@ Python codes for devloping a classifier model is included in folder [Python](htt
 *After choosing image press '''Classify Image''' Button.
 *Result will be shown at the top.
 
-##Image Foe Help
-![](https://ibb.co/ScJYKH0)
-![](https://ibb.co/LChrFYM)
+##Image For Help
+![](https://github.com/ArafatRohan93/Diabetic_Retinopathy/blob/master/1.png)
+![](https://github.com/ArafatRohan93/Diabetic_Retinopathy/blob/master/2.png)
